@@ -126,11 +126,10 @@ yarn-slave
 
 [node-exporter]
 # Add all your VM IP's under this group
-10.1.4.4
-10.1.4.5
-10.1.4.6
-10.1.4.7
-10.1.4.8
+10.0.1.12
+10.0.1.13
+10.0.1.10
+10.0.1.11
 
 [process-exporter:children]
 node-exporter
