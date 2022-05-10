@@ -40,7 +40,7 @@ log-es-1
 core-cassandra
 
 [secor]
-18.3.1.7
+10.0.1.7
 
 [spark]
 10.0.1.6
